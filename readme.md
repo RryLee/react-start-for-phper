@@ -6,6 +6,8 @@ php 脚本在 api 目录下
 
 react 在 frontend 下
 
+`npm install` 安装依赖
+
 `npm start` 后打开 http://localhost:8000  ->  ok
 
 代码和例子一样
